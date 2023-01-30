@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any web projects
 
 <img src="https://github-readme-stats.vercel.app/api?username=kaushikappani&show_icons=true&locale=en" alt="kaushikappai" >
+<img  src="https://github-profile-trophy.vercel.app/?username=everly-gif&theme=juicyfresh&no-bg=true" alt="everly-gif">
 
 <!---
 kaushikappani/kaushikappani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
