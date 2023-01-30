@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on any web projects
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaushikappani)](https://github.com/kaushikappani/github-profile-trophy)
+<img src="https://github-readme-stats.vercel.app/api?username=kaushikappani&show_icons=true&locale=en" alt="kaushikappai" >
 
 <!---
 kaushikappani/kaushikappani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
