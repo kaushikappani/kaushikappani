@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushikappani  
 - 👀 I’m interested in web development, Java Spring Boot, and full-stack development  
-- 🌱 I’m currently working as a Software Engineer II at Bajaj Finserv Direct Limited  
+- 🌱 I’m currently working as a Software Engineer II at Rahi Platform Technologies
 - 💼 I specialize in Java Spring Boot, SQL, MongoDB, and RESTful APIs  
 - 💻 I have experience in MERN stack development, including React.js and Node.js  
 - 📊 I’m working on projects related to stock market analysis, expense tracking, and appointment booking systems  
